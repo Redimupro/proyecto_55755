@@ -17,7 +17,7 @@ let precio;
 let total = 0;
 let cantidad;
 let continuar;
-let ticket = 'nombre   precio   cantidad    subtotal \n';
+let ticket = 'nombre   precio   cantidad    \n';
 
 
 function cargaProducto() {
